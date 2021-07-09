@@ -1,0 +1,15 @@
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\bin\Debug\net5.0\FinalFantasy.RepositoryMock.deps.json
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\bin\Debug\net5.0\FinalFantasy.RepositoryMock.dll
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\bin\Debug\net5.0\ref\FinalFantasy.RepositoryMock.dll
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\bin\Debug\net5.0\FinalFantasy.RepositoryMock.pdb
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\bin\Debug\net5.0\FinalFantasy.Core.dll
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\bin\Debug\net5.0\FinalFantasy.Core.pdb
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.csprojAssemblyReference.cache
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.AssemblyInfoInputs.cache
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.AssemblyInfo.cs
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.csproj.CoreCompileInputs.cache
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.csproj.CopyComplete
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.dll
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\ref\FinalFantasy.RepositoryMock.dll
+C:\Users\silvana.ombris\Desktop\FinalFantasy\FinalFantasy.RepositoeyMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.pdb

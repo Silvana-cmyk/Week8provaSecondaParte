@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinalFantasy.Core\FinalFantasy.Core.csproj" />
+    <ProjectReference Include="..\FinalFantasy.RepositoeyMock\FinalFantasy.RepositoryMock.csproj" />
+    <ProjectReference Include="..\FinalFantasy.RepositoryEF\FinalFantasy.RepositoryEF.csproj" />
+  </ItemGroup>
+
+</Project>
